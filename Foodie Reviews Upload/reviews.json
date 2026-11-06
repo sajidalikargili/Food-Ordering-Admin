@@ -1,0 +1,49 @@
+{
+  "reviews": [
+    {
+      "userId": "user_001",
+      "userName": "Ali Khan",
+      "productId": "product_001",
+      "productName": "Chicken Burger",
+      "rating": 5,
+      "comment": "Very delicious and fresh!",
+      "createdAt": "2026-10-20T10:30:00Z"
+    },
+    {
+      "userId": "user_002",
+      "userName": "Sara Ahmed",
+      "productId": "product_002",
+      "productName": "Pizza",
+      "rating": 4,
+      "comment": "Good taste, but delivery was late.",
+      "createdAt": "2026-10-21T14:15:00Z"
+    },
+    {
+      "userId": "user_003",
+      "userName": "Usman Raza",
+      "productId": "product_003",
+      "productName": "French Fries",
+      "rating": 5,
+      "comment": "Crispy and fresh fries. Loved it!",
+      "createdAt": "2026-10-22T09:00:00Z"
+    },
+    {
+      "userId": "user_004",
+      "userName": "Ayesha Malik",
+      "productId": "product_004",
+      "productName": "Coca Cola",
+      "rating": 3,
+      "comment": "It was okay. Nothing special.",
+      "createdAt": "2026-10-23T18:30:00Z"
+    },
+    {
+      "userId": "user_005",
+      "userName": "Hamza Sheikh",
+      "productId": "product_005",
+      "productName": "Beef Burger",
+      "rating": 5,
+      "comment": "Amazing burger!",
+      "createdAt": "2026-10-24T12:00:00Z"
+    }
+  ]
+}
